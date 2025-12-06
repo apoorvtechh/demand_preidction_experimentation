@@ -4,6 +4,10 @@ This repository contains all experimentation, research, and prototyping work for
 It includes data preprocessing trials, clustering experiments, feature engineering exploration, baseline modeling, and hybrid model development.
 
 ---
+## 🚀 Live  App  
+Explore the working:
+
+🔗 **https://apoorvtechh-dashboard-demand-prediction-app-gx2szx.streamlit.app/**
 
 ## 🔬 What This Repo Contains
 - Data cleaning experiments (Dask, outlier removal)
